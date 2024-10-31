@@ -1,0 +1,124 @@
+# Copyright (C) 2020 Romain GUILLAUME
+# This file is distributed under the same license as the Places plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Places 0.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/places\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-22T09:47:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: places-plugin\n"
+
+#. Plugin Name of the plugin
+#: inc/CPT-places.php:23
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:12
+#: blocks/places/index.jsx:105
+msgid "Places"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://places.blgg.fr"
+msgstr ""
+
+#. Description of the plugin
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:13
+msgid "Interactive maps in a block with multiple markers and their popups. Manage locations in the Places post type."
+msgstr ""
+
+#. Author of the plugin
+msgid "Romain GUILLAUME"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://blgg.fr"
+msgstr ""
+
+#: inc/CF-places.php:61
+msgid "You can enter a place address in the text area below ; then, to display it, use the Places block anywhere, for exemple in this post"
+msgstr ""
+
+#: inc/CF-places.php:89
+msgid "Address to display"
+msgstr ""
+
+#: inc/CF-places.php:92
+msgid "If your place is not registered already, add it using your <a href=\"%s\">openstreetmap.org</a> account."
+msgstr ""
+
+#: inc/CF-places.php:95
+msgid "Moving the marker or changing coordinates values do not update the address to display."
+msgstr ""
+
+#: inc/CF-places.php:98
+msgid "GPS coordinates"
+msgstr ""
+
+#: inc/CF-places.php:99
+msgid "Latitude"
+msgstr ""
+
+#: inc/CF-places.php:101
+msgid "Longitude"
+msgstr ""
+
+#: inc/CPT-places.php:18
+msgctxt "Post Type General Name"
+msgid "Places"
+msgstr ""
+
+#: inc/CPT-places.php:19
+msgctxt "Post Type Singular Name"
+msgid "Place"
+msgstr ""
+
+#: inc/CPT-places.php:24
+msgid "Add places to use with Places blocks"
+msgstr ""
+
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:27
+msgid "Loading..."
+msgstr ""
+
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:31
+#: blocks/places/index.jsx:36
+msgid "No places found. Create some first."
+msgstr ""
+
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:79
+msgid "Asynchronous load"
+msgstr ""
+
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:80
+msgid "Scroll wheel zoom"
+msgstr ""
+
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:81
+msgid "Zoom on popup open"
+msgstr ""
+
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:108
+msgid "Settings"
+msgstr ""
+
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:111
+msgid "Container settings"
+msgstr ""
+
+#: blocks/places/index.js:43
+#: blocks/places/index.jsx:113
+msgid "Minimum height in pixels"
+msgstr ""
